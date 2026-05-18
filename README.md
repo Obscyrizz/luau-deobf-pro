@@ -45,7 +45,7 @@ A comprehensive multi-layer script analysis tool for reverse-engineering obfusca
 
 ```bash
 # Download and run setup script
-curl -O https://raw.githubusercontent.com/yourusername/luau-deobf-pro/main/setup_termux.sh
+curl -O https://raw.githubusercontent.com/Obscyrizz/luau-deobf-pro/main/setup_termux.sh
 bash setup_termux.sh
 ```
 
@@ -71,7 +71,7 @@ termux-setup-storage
 **Option A: Using Git**
 ```bash
 cd ~
-git clone https://github.com/yourusername/luau-deobf-pro.git
+git clone https://github.com/Obscyrizz/luau-deobf-pro.git
 cd luau-deobf-pro
 ```
 
